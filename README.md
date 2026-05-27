@@ -5,8 +5,8 @@ Maharashtra Board 11th IT SOP practicals repository with HTML5, JavaScript, Post
 ## Web Designing
 
 <details>
-<summary>SOP 1</summary>
+<summary>SOP</summary>
 
-[Open JavaScript SOP 1](https://github.com/CWPS07/JavaScript-SOPs/tree/5fa26e531c31c92ed0681c7dc06ab2dae7167b07/sop-01)
+[Open SOP](https://github.com/CWPS07/11th-SOP/tree/7a248191611d28d5a5619c96842d8e2e7a2a7caf/Web%20Designing)
 
 </details>
